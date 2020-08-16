@@ -13,6 +13,7 @@
 		71EDB7FB241C4737008F3C9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71EDB7F9241C4737008F3C9A /* Main.storyboard */; };
 		71EDB7FD241C473A008F3C9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71EDB7FC241C473A008F3C9A /* Assets.xcassets */; };
 		71EDB800241C473A008F3C9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71EDB7FE241C473A008F3C9A /* LaunchScreen.storyboard */; };
+		71EDB808241C6A9B008F3C9A /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71EDB807241C6A9B008F3C9A /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		71EDB7FC241C473A008F3C9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71EDB7FF241C473A008F3C9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71EDB801241C473A008F3C9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71EDB807241C6A9B008F3C9A /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				71EDB7F5241C4737008F3C9A /* SceneDelegate.swift */,
 				71EDB7F7241C4737008F3C9A /* ViewController.swift */,
 				71EDB7F9241C4737008F3C9A /* Main.storyboard */,
+				71EDB807241C6A9B008F3C9A /* CreationViewController.swift */,
 				71EDB7FC241C473A008F3C9A /* Assets.xcassets */,
 				71EDB7FE241C473A008F3C9A /* LaunchScreen.storyboard */,
 				71EDB801241C473A008F3C9A /* Info.plist */,
@@ -141,6 +144,7 @@
 				71EDB7F8241C4737008F3C9A /* ViewController.swift in Sources */,
 				71EDB7F4241C4737008F3C9A /* AppDelegate.swift in Sources */,
 				71EDB7F6241C4737008F3C9A /* SceneDelegate.swift in Sources */,
+				71EDB808241C6A9B008F3C9A /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
